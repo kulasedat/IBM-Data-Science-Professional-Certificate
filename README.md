@@ -1,2 +1,2 @@
-# IBM-Data-Science-Professional-Certificate
-# Capstone Project
+# IBM Data Science Professional Certificate
+# Car Accident Severity Analysis Capstone Project
